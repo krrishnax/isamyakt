@@ -13,6 +13,8 @@ Then I learned Rust and build photorealistic 3D renderer from scratch!
 With the help of [Ray Tracer Challenge book](https://github.com/codingxjourney/ray-tracer-challenge) and this is my old github.
 now I wanted to work on web3 🔥
 
+## About Me
+
 - 👨🏻‍💻 I recently created new github acc for specifically for blockchain.
 - 👀 I’m interested in Solana.
 - 🌱 I’m currently learning Smart Contract on top of Solana using Anchor framework.
