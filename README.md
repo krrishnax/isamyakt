@@ -16,7 +16,7 @@ now I wanted to work on web3 🔥
 ## About Me
 
 - 👨🏻‍💻 I recently created new github acc for specifically for blockchain.
-- 👀 I’m interested in Solana.
+- 👀 I’m interested in Solana and Core-Blockchain Development.
 - 🌱 I’m currently learning Smart Contract on top of Solana using Anchor framework.
 - 💞️ I’m looking to contribute on open source projects like pyth network, solana, lamportDAO and more using Rust Lang.
 - 📫 How to reach me [Twitter](https://github.com/isamyakt).
