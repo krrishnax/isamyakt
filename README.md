@@ -13,7 +13,7 @@ Then I learned Rust and build photorealistic 3D renderer from scratch!
 With the help of [Ray Tracer Challenge book](https://github.com/codingxjourney/ray-tracer-challenge) and this is my old github.
 now I wanted to work on web3 🔥
 
-## About Me
+## <picture><img src = "https://user-images.githubusercontent.com/116967403/206915594-ee9cc1cd-a287-4fce-bd53-4c6c3ccb3bba.gif" width = 50px></picture> **About me**
 
 - 👨🏻‍💻 I recently created new github acc for specifically for blockchain.
 - 👀 I’m interested in Solana and Core-Blockchain Development.
@@ -37,8 +37,7 @@ You can click the Preview link to take a look at your changes.
     <br>
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<br>
+  
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
