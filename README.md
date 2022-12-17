@@ -15,6 +15,10 @@ now I wanted to work on web3 🔥
 
 <br>
 
+<div align="center" style="display:inline-block;flex-wrap:nowrap";>
+    <img src = "https://user-images.githubusercontent.com/116967403/208234086-64908140-f9ae-4d98-80a6-4977032e3966.gif" width = 500px />
+</div>
+
 ## <picture><img src = "https://user-images.githubusercontent.com/116967403/206915594-ee9cc1cd-a287-4fce-bd53-4c6c3ccb3bba.gif" width = 50px></picture> **About me**
 
 - 👨🏻‍💻 I recently created new github acc for specifically for blockchain.
@@ -22,7 +26,7 @@ now I wanted to work on web3 🔥
 - 🌱 I’m currently learning Smart Contract on top of Solana using Anchor framework.
 - 💞️ I’m looking to contribute on open source projects like pyth network, solana, lamportDAO and more using Rust Lang.
 - 📫 How to reach me [Twitter](https://github.com/isamyakt).
-
+  
 <!---
 isamyakt/isamyakt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
