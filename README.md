@@ -110,6 +110,9 @@ You can click the Preview link to take a look at your changes.
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isamyakt&theme=dracula&column=7" alt="isamyakt" /></a> </p> -->
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=isamyakt&icon=0&color=0)](https://visitcount.itsvg.in)
+[![@isamyakt's Holopin board](https://holopin.me/isamyakt)](https://holopin.io/@isamyakt)
+
 ## Connect With Me!
 <div align="center">
 <a href="https://github.com/isamyakt" target="_blank">
