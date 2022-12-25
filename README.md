@@ -21,13 +21,13 @@ now I wanted to work on web3 🔥
     <img src = "https://user-images.githubusercontent.com/116967403/209358069-ef0ea2a6-4441-4f2f-9c4b-5a5f52ce95b8.jpeg" /> -->
 <!--     <img src="https://user-images.githubusercontent.com/116967403/209358391-7f2afaa6-b7fa-4141-b4bb-85eada86d834.png" /> -->
     
-<img src = "https://user-images.githubusercontent.com/116967403/209361957-26753fc3-d067-4889-96b6-1fd6168497d4.png" width = 100px />
-<img src = "https://user-images.githubusercontent.com/116967403/209361990-4ed21fe3-4cf5-420e-b5a9-b67ded0b13f5.png" width = 100px />
-<img src = "https://user-images.githubusercontent.com/116967403/209362018-5324e5d5-213b-4c96-89f8-71d4187a780a.png" width = 100px>
-<img src = "https://user-images.githubusercontent.com/116967403/208234086-64908140-f9ae-4d98-80a6-4977032e3966.gif" width = 150px />
-<img src = "https://user-images.githubusercontent.com/116967403/209362018-5324e5d5-213b-4c96-89f8-71d4187a780a.png" width = 100px>
-<img src = "https://user-images.githubusercontent.com/116967403/209362048-121fd6e0-816f-4dba-9c95-c8a61d1febbc.png" width = 100px />
-<img src = "https://user-images.githubusercontent.com/116967403/209362079-c989822d-dd07-4bf7-a385-9bdb4cb4a29d.png" width = 100px />
+<img src = "https://user-images.githubusercontent.com/116967403/209361957-26753fc3-d067-4889-96b6-1fd6168497d4.png" width = "100px" />
+<img src = "https://user-images.githubusercontent.com/116967403/209361990-4ed21fe3-4cf5-420e-b5a9-b67ded0b13f5.png" width = "100px" />
+<img src = "https://user-images.githubusercontent.com/116967403/209362018-5324e5d5-213b-4c96-89f8-71d4187a780a.png" width = "100px" />
+<img src = "https://user-images.githubusercontent.com/116967403/208234086-64908140-f9ae-4d98-80a6-4977032e3966.gif" width = "150px" />
+<img src = "https://user-images.githubusercontent.com/116967403/209362018-5324e5d5-213b-4c96-89f8-71d4187a780a.png" width = "100px" />
+<img src = "https://user-images.githubusercontent.com/116967403/209362048-121fd6e0-816f-4dba-9c95-c8a61d1febbc.png" width = "100px" />
+<img src = "https://user-images.githubusercontent.com/116967403/209362079-c989822d-dd07-4bf7-a385-9bdb4cb4a29d.png" width = "100px" />
 
 
 <!-- <img src = "https://user-images.githubusercontent.com/116967403/209361998-4683dd5d-ae28-4a3e-a534-88951eaba903.png" width = 100px> -->
@@ -38,7 +38,7 @@ now I wanted to work on web3 🔥
 <br>
 <!-- ## <picture><img src = "https://user-images.githubusercontent.com/116967403/206915594-ee9cc1cd-a287-4fce-bd53-4c6c3ccb3bba.gif" width = 50px></picture> **About me** -->
 
-## <img src = "https://user-images.githubusercontent.com/116967403/209361998-4683dd5d-ae28-4a3e-a534-88951eaba903.png" width = 77px> **About me**
+## <img src = "https://user-images.githubusercontent.com/116967403/209361998-4683dd5d-ae28-4a3e-a534-88951eaba903.png" width = "77px" /> **About me**
 
 - 👨🏻‍💻 I recently created new github acc for specifically for blockchain.
 - 👀 I’m interested in Solana and Core-Blockchain Development.
@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 
-## <img src="https://user-images.githubusercontent.com/116967403/208233301-57bb0255-c750-4379-b81a-63459d668e63.gif" width = "77" /> <b> My Skills</b> 
+## <img src="https://user-images.githubusercontent.com/116967403/208233301-57bb0255-c750-4379-b81a-63459d668e63.gif" width = "107px" /> <b> My Skills</b> 
 
 
 <table align="center">
