@@ -144,15 +144,19 @@ You can click the Preview link to take a look at your changes.
 ## Connect With Me!
 <div align="center">
 <a href="https://github.com/isamyakt" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/isamyakt" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/isamyakt" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
-<br/>
-<div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://user-images.githubusercontent.com/116967403/208232976-91f0b77a-bc39-4dbb-83a3-3c4ebad98b52.gif" style="height:190px"/>
 
+<br/>
+
+<div align="center" style="display:inline-block;flex-wrap:nowrap";>
+    <img src="https://user-images.githubusercontent.com/116967403/208232976-91f0b77a-bc39-4dbb-83a3-3c4ebad98b52.gif" style="height:370px; width=70px"/>
 </div>
 
