@@ -157,6 +157,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-    <img src="https://user-images.githubusercontent.com/116967403/208232976-91f0b77a-bc39-4dbb-83a3-3c4ebad98b52.gif" style="height:370px; width=70px"/>
+    <img src="https://user-images.githubusercontent.com/116967403/208232976-91f0b77a-bc39-4dbb-83a3-3c4ebad98b52.gif" width = "150px"/>
 </div>
 
