@@ -13,7 +13,7 @@
 
 # 👋 Hi, I’m Samyakt
 
-i am 24 years old and I am freelancer (full-stack developer but mostly focused on back-end development). I started to learn code in end of 2020. I started with C/C++ and built small projects like snake & chess game. 
+I'm 24 years old and I am freelancer (full-stack developer but mostly focused on back-end development). I started to learn code in end of 2020. I started with C/C++ and built small projects like snake & chess game. 
 Then I learned front-end, back-end as node.js and mongoDB as data base and I got into full-stack freelancer in mid of 2021 like in july in think so. 
 
 The Tech-companies like linux, aws, google changing there codebase from C/C++ to Rust, I wanted to know why Rust, then I gotta know Rust as awesome features like 
