@@ -50,7 +50,7 @@ now I wanted to work on web3 🔥
 ## <img src = "https://user-images.githubusercontent.com/116967403/209361998-4683dd5d-ae28-4a3e-a534-88951eaba903.png" width = "77px" /> **About me**
 
 - 👨🏻‍💻 I recently created new github acc for specifically for blockchain.
-- 👀 I’m interested in Solana and Core-Blockchain Development.
+- 👀 I’m interested in Solana, Polkadot, Sui and Core-Blockchain Development like substrate.
 - 🌱 I’m currently learning Smart Contract on top of Solana using Anchor framework.
 - 💞️ I’m looking to contribute on open source projects like pyth network, solana, lamportDAO and more using Rust Lang.
 - 📫 How to reach me [Twitter](https://github.com/isamyakt).
