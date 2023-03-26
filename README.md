@@ -18,7 +18,7 @@ I am rust developer, I started to learn code in mid of 2022. Before I used to do
 I was interested in Solana so I learned Rust, then I gotta know Rust as awesome features like 
 owership borrowing model, no memory leak, no garbage collection, fast, secure and much more... 
 
-now I wanted to work on DeFi as Rust Developer 🔥
+now I wanted to work on DeFi and Core-Blockchain Rust Developer 🔥
 
 <br>
 
