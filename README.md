@@ -13,7 +13,7 @@
 
 # 👋 Hi, I’m Samyakt
 
-I am rust developer, I started to learn rust in mid of 2022. Before I used to do trading in binance and freelancing then I gotta know about quadratic trading, Defi, flash loan and MEV. Then I started doing research on that topic as I mentioned, so I started learning how to code.
+I am rust developer, I started to learn rust in mid of 2022. Before I used to do trading in binance then I gotta know about quadratic trading, Defi, flash loan and MEV. Then I started doing research on that topic as I mentioned, so I started learning how to code.
 
 I was interested in Solana so I learned Rust, then I gotta know Rust as awesome features like 
 owership borrowing model, no memory leak, no garbage collection, fast, secure and much more... 
