@@ -13,12 +13,7 @@
 
 # 👋 Hi, I’m Samyakt
 
-I am rust developer, I started to learn rust in mid of 2022. Before I used to do trading in binance then I gotta know about quadratic trading, Defi, flash loan and MEV. Then I started doing research on that topic as I mentioned, so I started learning how to code.
-
-I was interested in Solana so I learned Rust, then I gotta know Rust as awesome features like 
-owership borrowing model, no memory leak, no garbage collection, fast, secure and much more... 
-
-now I wanted to work on DeFi and Core-Blockchain Rust Developer 🔥
+I am rust developer, I started to learn rust in mid of 2022. Before I used to do trading in binance then I gotta know about quantitative trading, defi, flash loan and MEV. Then I started doing research on that topic as I mentioned, so I started learning how to code.
 
 <br>
 
@@ -47,7 +42,7 @@ now I wanted to work on DeFi and Core-Blockchain Rust Developer 🔥
 ## <img src = "https://user-images.githubusercontent.com/116967403/209361998-4683dd5d-ae28-4a3e-a534-88951eaba903.png" width = "77px" /> **About me**
 
 - 👨🏻‍💻 I love to code and rustaceans by heart.
-- 👀 I’m interested in Solana, Polkadot and Core-Blockchain Development like substrate.
+- 👀 I’m interested in Solana, Polkadot, Cosmos.
 - 🌱 I’m currently learning Smart Contract on top of Solana using Anchor framework.
 - 💞️ I’m looking to contribute on open source projects like clockwork, solana, substrate and much more...
 - 📫 How to reach me [Twitter](https://github.com/isamyakt).
