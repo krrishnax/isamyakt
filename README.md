@@ -13,7 +13,7 @@
 
 # 👋 Hi, I’m Samyakt
 
-I am rust developer, I started to learn rust in mid of 2022. Before I used to do trading in binance then I gotta know about quantitative trading, defi, flash loan and MEV. Then I started doing research, accidently I started learning how to code.
+I am rust developer, I started to learn rust in mid of 2022. Before I used to do trading in binance then I gotta know about quantitative trading, defi, AMM, LP, CLOBs, flash loan and MEV. Then I started doing research, accidently I started learning how to code.
 
 <br>
 
