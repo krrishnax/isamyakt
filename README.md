@@ -44,7 +44,7 @@ I am rust developer, I started to learn rust in mid of 2022. Before I used to do
 - 👨🏻‍💻 I love to code and rustaceans by heart.
 - 👀 I’m interested in Solana, Polkadot, Cosmos.
 - 🌱 I’m currently learning Smart Contract on top of Solana using Anchor framework.
-- 💞️ I’m looking to contribute on open source projects like clockwork, solana, substrate and much more...
+- 💞️ I’m looking to contribute on open source projects like phoneix(ellipsis labs), drift, substrate and much more...
 - 📫 How to reach me [Twitter](https://github.com/isamyakt).
   
 <!---
