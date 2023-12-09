@@ -43,7 +43,7 @@ I am rust developer, I started to learn rust in mid of 2022. Before I used to do
 
 - 👨🏻‍💻 I love to code and rustaceans by heart.
 - 👀 I’m interested in Solana, Polkadot, Cosmos.
-- 🌱 I’m currently learning Smart Contract on top of Polkadot using substrate framework.
+- 🌱 I’m currently learning Polkadot using substrate framework.
 - 📫 How to reach me [Twitter](https://github.com/isamyakt).
   
 <!---
