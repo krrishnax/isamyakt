@@ -117,10 +117,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<a href="https://github.com/isamyakt/">
-  <img src="https://github-readme-stats.vercel.app/api?username=isamyakt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isamyakt&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="320"  alt="isamyakt"/>
-  <img width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=isamyakt&theme=blue-green" />
+<a href="https://github.com/krrishnax/">
+  <img src="https://github-readme-stats.vercel.app/api?username=krrishnax&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krrishnax&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="320"  alt="krrishnax"/>
+  <img width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=krrishnax&theme=blue-green" />
     
 </a>
     
@@ -135,13 +135,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect With Me!
 <div align="center">
-<a href="https://github.com/isamyakt" target="_blank">
+<a href="https://github.com/krrishnax" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/isamyakt" target="_blank">
+<a href="https://twitter.com/krrishnax" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/isamyakt" target="_blank">
+<a href="https://instagram.com/krrishnax" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
